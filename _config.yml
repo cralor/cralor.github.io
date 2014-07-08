@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Chris Gullo
+tagline:          'Follow my adventures.'
+description:      'Adventurer, pizza lover, tech wizz, and more.'
+url:              http://gullo.io
+baseurl:          /
+
+author:
+  name:           'Chris Gullo'
+  url:            https://twitter.com/cralor
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:
