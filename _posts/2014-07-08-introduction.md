@@ -3,7 +3,9 @@ layout: post
 title: San Francisco and the Bay Area
 ---
 
-So I've been in the San Francisco and Bay Area for a little over a month now, and I continue to be filled with excitement. There are so many things to do and see; whether it be tech-related (yeah, I'm a geek), or nature-related (I love the outdoors). I'd like to share with you some of the things I've accomplished off of my bucket list, and some that I still have to do!
+So I've been in the San Francisco and Bay Area for a little over a month now, and I continue to be filled with excitement. There are so many things to do and see; whether it be tech-related (yeah, I'm a geek), or nature-related (I love the outdoors).
+
+I'd like to share with you some of the things I've accomplished off of my bucket list, and some that I still have to do!
 
 ### Buckets filled
 
