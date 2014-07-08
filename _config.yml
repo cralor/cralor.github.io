@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Chris Gullo
-tagline:
+tagline:          'Follow my adventures.'
 description:      'Adventurer, pizza lover, tech wizz, and more.'
 url:              http://gullo.io
 baseurl:          /
