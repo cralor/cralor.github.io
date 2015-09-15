@@ -1,5 +1,5 @@
 ---
-layout: <#disable> post
+layout: <#post>
 title: San Francisco and the Bay Area
 ---
 
