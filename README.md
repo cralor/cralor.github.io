@@ -1,3 +1,0 @@
-# Personal blog and about page
-
-Additional information here as need arises...

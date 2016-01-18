@@ -1,25 +1,25 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
+# Site settings
+title: CHRIS GULLO
+email: chris@gullo.io
+url: http://cgullo.com
+description: "Adventures, pizza, technology..."
 
-# Permalinks
-permalink:        pretty
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
 
-# Setup
-title:            CHRIS GULLO
-tagline:          'Follow my adventures.'
-description:      'Adventurer, pizza lover, tech wizz, and more.'
-url:              http://gullo.io
-baseurl:          /
+# Footer settings
+footer: Christopher Gullo
 
-author:
-  name:           'Chris Gullo'
-  url:            https://twitter.com/cralor
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/cralor
+  - title: github
+    url: https://github.com/cralor
 
-paginate:         5
 
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:
+# Build settings
+markdown: kramdown
+permalink: pretty
