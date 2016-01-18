@@ -2,18 +2,20 @@
 title: CHRIS GULLO
 email: chris@gullo.io
 url: http://cgullo.com
-description: "Adventures, pizza, technology..."
+description: "<i class="fa fa-fire"></i> Fueled by <i class="fa fa-tree"></i>adventure, <i class="fa fa-cutlery"></i>pizza, <i class="fa fa-server"></i>technology and <i class="fa fa-plane"></i>human flight."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: '#00d444'
 
 # Footer settings
 footer: Christopher Gullo
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: send
+    url: mailto:chris@gullo.io
   - title: twitter
     url: https://twitter.com/cralor
   - title: github
