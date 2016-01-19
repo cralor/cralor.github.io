@@ -6,7 +6,8 @@
 
     <script>
       $(function(){
-        $("body > *").hide(0).fadeIn(2000);
+        $('.intro').animate({opacity: 0}, 0).css({'background-image': 'url(/img/intro-bg.jpg)'}).animate({opacity: 1}, 2500);
+        $('.brand-heading, .intro-text, .banner-social-buttons').delay(1000).animate({ opacity: 1 }, 700);​
       });
     </script>
 
