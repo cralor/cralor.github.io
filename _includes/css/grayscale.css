@@ -133,6 +133,7 @@ a:focus {
 
 .intro {
     display: table;
+    opacity: 0;
     width: 100%;
     height: auto;
     padding: 100px 0;
@@ -153,12 +154,10 @@ a:focus {
 
 .intro .intro-body .brand-heading {
     font-size: 40px;
-    opacity: 0;
 }
 
 .intro .intro-body .intro-text {
     font-size: 18px;
-    opacity: 0;
 }
 
 @media(min-width:767px) {
@@ -312,7 +311,6 @@ a:focus {
 
 ul.banner-social-buttons {
     margin-top: 0;
-    opacity: 0;
 }
 
 ul.banner-social-buttons li {
