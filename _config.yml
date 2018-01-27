@@ -13,13 +13,13 @@ color:
 footer: Christopher Gullo
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: send
-    url: mailto:chris@gullo.io
-  - title: github
-    url: https://github.com/cralor
-  - title: linkedin
-    url: https://www.linkedin.com/in/christophergullo
+#social:
+#  - title: send
+#    url: mailto:chris@gullo.io
+#  - title: github
+#    url: https://github.com/cralor
+#  - title: linkedin
+#    url: https://www.linkedin.com/in/christophergullo
 
 
 # Build settings
